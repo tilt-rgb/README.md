@@ -1,1 +1,25 @@
-# README.md
+<img src="https://profile-counter.glitch.me/tilt-rgb/count.svg" />
+
+[![tilt-rgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilt-rgb&theme=react&count_private=true&show_icons=true)](https://github.com/tilt-rgb)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tilt-rgb&theme=dark)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilt-rgb&theme=react&layout=compact&show_icons=true)](https://github.com/tilt-rgb)-->
+
+<!--
+
+### Hi there 👋
+
+**tilt-rgb/tilt-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
